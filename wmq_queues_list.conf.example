@@ -1,0 +1,7 @@
+[QUEUE1.NAME]
+warning_depth = 5
+critical_depth = 10
+
+[QUEUE2.NAME]
+warning_depth = 5
+critical_depth = 10
